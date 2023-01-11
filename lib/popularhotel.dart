@@ -1,11 +1,5 @@
 import 'package:flutter/material.dart';
 
-// void main(List<String> args) {
-//   runApp(MaterialApp(
-//     home: popular(),
-//   ));
-// }
-
 class popular extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
